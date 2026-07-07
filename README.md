@@ -2,11 +2,7 @@
 
 A modern and responsive Tic Tac Toe game built with **HTML**, **CSS**, and **JavaScript**.
 
-## 📸 Preview
 
-![Project Preview](./assets/img/IMG-Tic-Toc-Toe.jpg)
-
----
 
 ## 🚀 Live Demo
 
