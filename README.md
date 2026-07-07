@@ -4,13 +4,13 @@ A modern and responsive Tic Tac Toe game built with **HTML**, **CSS**, and **Jav
 
 ## 📸 Preview
 
-![Project Preview](./assets/img/IMG-20260707-WA0002.jpg)
+![Project Preview](./assets/img/Tic-Toc-Toe.png)
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 https://your-demo-link.netlify.app
+🔗 
 
 ---
 
