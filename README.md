@@ -4,7 +4,7 @@ A modern and responsive Tic Tac Toe game built with **HTML**, **CSS**, and **Jav
 
 ## 📸 Preview
 
-![Project Preview](./assets/IMG-Tic-Toc-Toe.jpg)
+![Project Preview](./assets/img/IMG-Tic-Toc-Toe.jpg)
 
 ---
 
